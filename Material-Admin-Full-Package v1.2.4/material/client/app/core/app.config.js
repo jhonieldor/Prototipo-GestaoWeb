@@ -36,10 +36,10 @@
             skin: '14'                                      // String: 11,12,13,14,15,16; 21,22,23,24,25,26; 31,32,33,34,35,36
         };
         var color = {
-            primary:    '#009688',
-            //primary:    '#00BCD4',
+            //primary:    '#009688',
+            primary:    '#00BCD4',
             success:    '#8BC34A',
-            info:       '#00BCD4',
+            info:       '#009688',
             infoAlt:    '#7E57C2',
             warning:    '#FFCA28',
             danger:     '#F44336',

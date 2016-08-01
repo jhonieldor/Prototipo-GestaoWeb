@@ -92,8 +92,6 @@
 
     }
 
-
-
     function FormCtrl($scope) {
         // Slider
         $scope.color = {

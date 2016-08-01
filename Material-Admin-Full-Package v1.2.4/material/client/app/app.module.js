@@ -4,7 +4,7 @@
     angular.module('app', [
         // Core modules
          'app.core'
-        
+
         // Custom Feature modules
         ,'app.chart'
         ,'app.ui'
@@ -12,7 +12,8 @@
         ,'app.ui.form.validation'
         ,'app.page'
         ,'app.table'
-        
+        ,'app.gestao.parceiros'
+
         // 3rd party feature modules
         ,'mgo-angular-wizard'
         ,'ui.tree'
